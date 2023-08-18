@@ -43,7 +43,3 @@ This analysis provides insights into employee resignation patterns and factors a
 
 ## Acknowledgements
 Data provided by the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) body of the Queensland government in Australia.
-
----
-
-*Note: This README provides an overview of the project. For detailed code and analysis, refer to the Jupyter Notebook in the repository.*
